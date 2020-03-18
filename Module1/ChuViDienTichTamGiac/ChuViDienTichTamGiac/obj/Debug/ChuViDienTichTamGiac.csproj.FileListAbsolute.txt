@@ -1,0 +1,7 @@
+D:\LTMTTQ\Bài Tập\ChuViDienTichTamGiac\ChuViDienTichTamGiac\bin\Debug\ChuViDienTichTamGiac.exe.config
+D:\LTMTTQ\Bài Tập\ChuViDienTichTamGiac\ChuViDienTichTamGiac\bin\Debug\ChuViDienTichTamGiac.exe
+D:\LTMTTQ\Bài Tập\ChuViDienTichTamGiac\ChuViDienTichTamGiac\bin\Debug\ChuViDienTichTamGiac.pdb
+D:\LTMTTQ\Bài Tập\ChuViDienTichTamGiac\ChuViDienTichTamGiac\obj\Debug\ChuViDienTichTamGiac.csprojAssemblyReference.cache
+D:\LTMTTQ\Bài Tập\ChuViDienTichTamGiac\ChuViDienTichTamGiac\obj\Debug\ChuViDienTichTamGiac.csproj.CoreCompileInputs.cache
+D:\LTMTTQ\Bài Tập\ChuViDienTichTamGiac\ChuViDienTichTamGiac\obj\Debug\ChuViDienTichTamGiac.exe
+D:\LTMTTQ\Bài Tập\ChuViDienTichTamGiac\ChuViDienTichTamGiac\obj\Debug\ChuViDienTichTamGiac.pdb

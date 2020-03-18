@@ -1,0 +1,7 @@
+D:\LTMTTQ\Tuan 1\ThaoTacSo\ThaoTacSo\bin\Debug\ThaoTacSo.exe.config
+D:\LTMTTQ\Tuan 1\ThaoTacSo\ThaoTacSo\bin\Debug\ThaoTacSo.exe
+D:\LTMTTQ\Tuan 1\ThaoTacSo\ThaoTacSo\bin\Debug\ThaoTacSo.pdb
+D:\LTMTTQ\Tuan 1\ThaoTacSo\ThaoTacSo\obj\Debug\ThaoTacSo.csprojAssemblyReference.cache
+D:\LTMTTQ\Tuan 1\ThaoTacSo\ThaoTacSo\obj\Debug\ThaoTacSo.csproj.CoreCompileInputs.cache
+D:\LTMTTQ\Tuan 1\ThaoTacSo\ThaoTacSo\obj\Debug\ThaoTacSo.exe
+D:\LTMTTQ\Tuan 1\ThaoTacSo\ThaoTacSo\obj\Debug\ThaoTacSo.pdb

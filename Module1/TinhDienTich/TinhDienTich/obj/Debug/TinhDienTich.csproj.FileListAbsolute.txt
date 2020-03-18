@@ -1,0 +1,7 @@
+D:\LTMTTQ\Tuan 1\TinhDienTich\TinhDienTich\obj\Debug\TinhDienTich.csprojAssemblyReference.cache
+D:\LTMTTQ\Tuan 1\TinhDienTich\TinhDienTich\obj\Debug\TinhDienTich.csproj.CoreCompileInputs.cache
+D:\LTMTTQ\Tuan 1\TinhDienTich\TinhDienTich\bin\Debug\TinhDienTich.exe.config
+D:\LTMTTQ\Tuan 1\TinhDienTich\TinhDienTich\bin\Debug\TinhDienTich.exe
+D:\LTMTTQ\Tuan 1\TinhDienTich\TinhDienTich\bin\Debug\TinhDienTich.pdb
+D:\LTMTTQ\Tuan 1\TinhDienTich\TinhDienTich\obj\Debug\TinhDienTich.exe
+D:\LTMTTQ\Tuan 1\TinhDienTich\TinhDienTich\obj\Debug\TinhDienTich.pdb

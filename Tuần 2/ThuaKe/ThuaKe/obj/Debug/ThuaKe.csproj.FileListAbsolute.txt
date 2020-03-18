@@ -1,0 +1,7 @@
+D:\LTMTTQ\Tuần 2\ThuaKe\ThuaKe\bin\Debug\ThuaKe.exe.config
+D:\LTMTTQ\Tuần 2\ThuaKe\ThuaKe\bin\Debug\ThuaKe.exe
+D:\LTMTTQ\Tuần 2\ThuaKe\ThuaKe\bin\Debug\ThuaKe.pdb
+D:\LTMTTQ\Tuần 2\ThuaKe\ThuaKe\obj\Debug\ThuaKe.csprojAssemblyReference.cache
+D:\LTMTTQ\Tuần 2\ThuaKe\ThuaKe\obj\Debug\ThuaKe.csproj.CoreCompileInputs.cache
+D:\LTMTTQ\Tuần 2\ThuaKe\ThuaKe\obj\Debug\ThuaKe.exe
+D:\LTMTTQ\Tuần 2\ThuaKe\ThuaKe\obj\Debug\ThuaKe.pdb

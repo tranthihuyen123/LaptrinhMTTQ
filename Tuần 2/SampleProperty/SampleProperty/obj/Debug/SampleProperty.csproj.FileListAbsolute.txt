@@ -1,0 +1,7 @@
+D:\LTMTTQ\Bài Tập\SampleProperty\SampleProperty\obj\Debug\SampleProperty.csprojAssemblyReference.cache
+D:\LTMTTQ\Bài Tập\SampleProperty\SampleProperty\obj\Debug\SampleProperty.csproj.CoreCompileInputs.cache
+D:\LTMTTQ\Bài Tập\SampleProperty\SampleProperty\bin\Debug\SampleProperty.exe.config
+D:\LTMTTQ\Bài Tập\SampleProperty\SampleProperty\bin\Debug\SampleProperty.exe
+D:\LTMTTQ\Bài Tập\SampleProperty\SampleProperty\bin\Debug\SampleProperty.pdb
+D:\LTMTTQ\Bài Tập\SampleProperty\SampleProperty\obj\Debug\SampleProperty.exe
+D:\LTMTTQ\Bài Tập\SampleProperty\SampleProperty\obj\Debug\SampleProperty.pdb

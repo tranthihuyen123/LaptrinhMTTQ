@@ -1,0 +1,6 @@
+D:\LTMTTQ\Tuan 1\PhuongTrinhBac2\PhuongTrinhBac2\bin\Debug\PhuongTrinhBac2.exe.config
+D:\LTMTTQ\Tuan 1\PhuongTrinhBac2\PhuongTrinhBac2\bin\Debug\PhuongTrinhBac2.exe
+D:\LTMTTQ\Tuan 1\PhuongTrinhBac2\PhuongTrinhBac2\bin\Debug\PhuongTrinhBac2.pdb
+D:\LTMTTQ\Tuan 1\PhuongTrinhBac2\PhuongTrinhBac2\obj\Debug\PhuongTrinhBac2.csproj.CoreCompileInputs.cache
+D:\LTMTTQ\Tuan 1\PhuongTrinhBac2\PhuongTrinhBac2\obj\Debug\PhuongTrinhBac2.exe
+D:\LTMTTQ\Tuan 1\PhuongTrinhBac2\PhuongTrinhBac2\obj\Debug\PhuongTrinhBac2.pdb

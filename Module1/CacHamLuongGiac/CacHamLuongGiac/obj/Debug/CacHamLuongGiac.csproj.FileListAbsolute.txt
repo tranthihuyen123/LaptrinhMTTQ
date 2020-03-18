@@ -1,0 +1,6 @@
+D:\LTMTTQ\Bài Tập\CacHamLuongGiac\CacHamLuongGiac\obj\Debug\CacHamLuongGiac.csproj.CoreCompileInputs.cache
+D:\LTMTTQ\Bài Tập\CacHamLuongGiac\CacHamLuongGiac\bin\Debug\CacHamLuongGiac.exe.config
+D:\LTMTTQ\Bài Tập\CacHamLuongGiac\CacHamLuongGiac\bin\Debug\CacHamLuongGiac.exe
+D:\LTMTTQ\Bài Tập\CacHamLuongGiac\CacHamLuongGiac\bin\Debug\CacHamLuongGiac.pdb
+D:\LTMTTQ\Bài Tập\CacHamLuongGiac\CacHamLuongGiac\obj\Debug\CacHamLuongGiac.exe
+D:\LTMTTQ\Bài Tập\CacHamLuongGiac\CacHamLuongGiac\obj\Debug\CacHamLuongGiac.pdb

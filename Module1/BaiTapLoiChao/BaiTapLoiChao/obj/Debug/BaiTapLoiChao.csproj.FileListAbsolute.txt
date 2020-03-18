@@ -1,0 +1,7 @@
+D:\LTMTTQ\Tuan 1\BaiTapLoiChao\BaiTapLoiChao\bin\Debug\BaiTapLoiChao.exe.config
+D:\LTMTTQ\Tuan 1\BaiTapLoiChao\BaiTapLoiChao\bin\Debug\BaiTapLoiChao.exe
+D:\LTMTTQ\Tuan 1\BaiTapLoiChao\BaiTapLoiChao\bin\Debug\BaiTapLoiChao.pdb
+D:\LTMTTQ\Tuan 1\BaiTapLoiChao\BaiTapLoiChao\obj\Debug\BaiTapLoiChao.csprojAssemblyReference.cache
+D:\LTMTTQ\Tuan 1\BaiTapLoiChao\BaiTapLoiChao\obj\Debug\BaiTapLoiChao.csproj.CoreCompileInputs.cache
+D:\LTMTTQ\Tuan 1\BaiTapLoiChao\BaiTapLoiChao\obj\Debug\BaiTapLoiChao.exe
+D:\LTMTTQ\Tuan 1\BaiTapLoiChao\BaiTapLoiChao\obj\Debug\BaiTapLoiChao.pdb

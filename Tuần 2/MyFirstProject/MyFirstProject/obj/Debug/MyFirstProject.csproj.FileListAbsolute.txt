@@ -1,0 +1,7 @@
+D:\LTMTTQ\Bài Tập\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.exe.config
+D:\LTMTTQ\Bài Tập\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.exe
+D:\LTMTTQ\Bài Tập\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.pdb
+D:\LTMTTQ\Bài Tập\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.csprojAssemblyReference.cache
+D:\LTMTTQ\Bài Tập\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.csproj.CoreCompileInputs.cache
+D:\LTMTTQ\Bài Tập\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.exe
+D:\LTMTTQ\Bài Tập\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.pdb
