@@ -1,0 +1,10 @@
+D:\LTMTTQ\Module3\Bai2\Bai2\bin\Debug\Bai2.exe.config
+D:\LTMTTQ\Module3\Bai2\Bai2\bin\Debug\Bai2.exe
+D:\LTMTTQ\Module3\Bai2\Bai2\bin\Debug\Bai2.pdb
+D:\LTMTTQ\Module3\Bai2\Bai2\obj\Debug\Bai2.csprojAssemblyReference.cache
+D:\LTMTTQ\Module3\Bai2\Bai2\obj\Debug\Bai2.frmTinhDienTich.resources
+D:\LTMTTQ\Module3\Bai2\Bai2\obj\Debug\Bai2.Properties.Resources.resources
+D:\LTMTTQ\Module3\Bai2\Bai2\obj\Debug\Bai2.csproj.GenerateResource.cache
+D:\LTMTTQ\Module3\Bai2\Bai2\obj\Debug\Bai2.csproj.CoreCompileInputs.cache
+D:\LTMTTQ\Module3\Bai2\Bai2\obj\Debug\Bai2.exe
+D:\LTMTTQ\Module3\Bai2\Bai2\obj\Debug\Bai2.pdb

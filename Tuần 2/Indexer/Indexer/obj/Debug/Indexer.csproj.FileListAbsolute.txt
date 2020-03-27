@@ -1,7 +1,0 @@
-D:\LTMTTQ\Bài Tập\Indexer\Indexer\obj\Debug\Indexer.csprojAssemblyReference.cache
-D:\LTMTTQ\Bài Tập\Indexer\Indexer\obj\Debug\Indexer.csproj.CoreCompileInputs.cache
-D:\LTMTTQ\Bài Tập\Indexer\Indexer\bin\Debug\Indexer.exe.config
-D:\LTMTTQ\Bài Tập\Indexer\Indexer\bin\Debug\Indexer.exe
-D:\LTMTTQ\Bài Tập\Indexer\Indexer\bin\Debug\Indexer.pdb
-D:\LTMTTQ\Bài Tập\Indexer\Indexer\obj\Debug\Indexer.exe
-D:\LTMTTQ\Bài Tập\Indexer\Indexer\obj\Debug\Indexer.pdb

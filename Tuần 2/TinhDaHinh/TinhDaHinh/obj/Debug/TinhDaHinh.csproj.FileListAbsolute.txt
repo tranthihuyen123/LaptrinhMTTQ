@@ -1,6 +1,0 @@
-D:\LTMTTQ\Tuần 2\TinhDaHinh\TinhDaHinh\obj\Debug\TinhDaHinh.csproj.CoreCompileInputs.cache
-D:\LTMTTQ\Tuần 2\TinhDaHinh\TinhDaHinh\bin\Debug\TinhDaHinh.exe.config
-D:\LTMTTQ\Tuần 2\TinhDaHinh\TinhDaHinh\bin\Debug\TinhDaHinh.exe
-D:\LTMTTQ\Tuần 2\TinhDaHinh\TinhDaHinh\bin\Debug\TinhDaHinh.pdb
-D:\LTMTTQ\Tuần 2\TinhDaHinh\TinhDaHinh\obj\Debug\TinhDaHinh.exe
-D:\LTMTTQ\Tuần 2\TinhDaHinh\TinhDaHinh\obj\Debug\TinhDaHinh.pdb

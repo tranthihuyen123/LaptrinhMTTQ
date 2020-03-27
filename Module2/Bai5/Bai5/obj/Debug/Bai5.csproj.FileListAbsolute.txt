@@ -1,0 +1,10 @@
+D:\LTMTTQ\Module2\Bai5\Bai5\bin\Debug\Bai5.exe.config
+D:\LTMTTQ\Module2\Bai5\Bai5\bin\Debug\Bai5.exe
+D:\LTMTTQ\Module2\Bai5\Bai5\bin\Debug\Bai5.pdb
+D:\LTMTTQ\Module2\Bai5\Bai5\obj\Debug\Bai5.csprojAssemblyReference.cache
+D:\LTMTTQ\Module2\Bai5\Bai5\obj\Debug\Bai5.frm.resources
+D:\LTMTTQ\Module2\Bai5\Bai5\obj\Debug\Bai5.Properties.Resources.resources
+D:\LTMTTQ\Module2\Bai5\Bai5\obj\Debug\Bai5.csproj.GenerateResource.cache
+D:\LTMTTQ\Module2\Bai5\Bai5\obj\Debug\Bai5.csproj.CoreCompileInputs.cache
+D:\LTMTTQ\Module2\Bai5\Bai5\obj\Debug\Bai5.exe
+D:\LTMTTQ\Module2\Bai5\Bai5\obj\Debug\Bai5.pdb

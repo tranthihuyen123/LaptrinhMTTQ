@@ -1,0 +1,10 @@
+D:\LTMTTQ\Module3\Bai4\Bai4\bin\Debug\Bai4.exe.config
+D:\LTMTTQ\Module3\Bai4\Bai4\bin\Debug\Bai4.exe
+D:\LTMTTQ\Module3\Bai4\Bai4\bin\Debug\Bai4.pdb
+D:\LTMTTQ\Module3\Bai4\Bai4\obj\Debug\Bai4.csprojAssemblyReference.cache
+D:\LTMTTQ\Module3\Bai4\Bai4\obj\Debug\Bai4.frmGiaiPhuongTrinh.resources
+D:\LTMTTQ\Module3\Bai4\Bai4\obj\Debug\Bai4.Properties.Resources.resources
+D:\LTMTTQ\Module3\Bai4\Bai4\obj\Debug\Bai4.csproj.GenerateResource.cache
+D:\LTMTTQ\Module3\Bai4\Bai4\obj\Debug\Bai4.csproj.CoreCompileInputs.cache
+D:\LTMTTQ\Module3\Bai4\Bai4\obj\Debug\Bai4.exe
+D:\LTMTTQ\Module3\Bai4\Bai4\obj\Debug\Bai4.pdb
